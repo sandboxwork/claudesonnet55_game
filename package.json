@@ -1,0 +1,12 @@
+{
+  "name": "claudesonnet55-game",
+  "version": "1.0.0",
+  "private": true,
+  "description": "젬 체인 HTML5 낙하형 퍼즐 게임",
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
